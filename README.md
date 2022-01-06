@@ -51,11 +51,11 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
  
   ## 📉📊 GitHub Stats...
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ravi-bala13)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ravi-bala13)](https://github-readme-stats.vercel.app/api?username=ravi-bala13)
   <br/>
 
   ## 🖋⌨Most Used Languages in Github...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Darshini-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-bala13&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-bala13&layout=compact)
 
 
 
