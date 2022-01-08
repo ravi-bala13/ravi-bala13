@@ -3,7 +3,7 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 ## 🙋‍♀️👩‍🎓 About me...
 - 🌱 I’m currently learning ...Full Stack Web development at Masai School
 - 👀 I’m interested in ... Web development
-- 👨‍💻 All of my projects are available at My <a href="https://portfolio-bals161616-gmailcom.vercel.app/">Portfolio</a>
+- 👨‍💻 All of my projects are available at My <a href="https://balamurugan-portfolio.vercel.app//">Portfolio</a>
 - 📫 How to reach me ... via call or whatsup 7639550495... via Mail bals161616@gmail.com
 - ⚡ Fun fact: I love to hear music in my leisure time.
 
