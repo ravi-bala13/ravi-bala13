@@ -1,8 +1,9 @@
 # Hi👋, I am Bala Murugan,
 A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am an avid learner. 
 ## 🙋‍♀️👩‍🎓 About me...
-- 🌱 I’m currently learning ...Full Stack Web development at Masai School
-- 👀 I’m interested in ... Web development and also problem solving and Designing work.
+- 🌱 Passionate and dedicated aspiring full-stack web developer with a specialization in MERN stack.
+- 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
+- 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="https://balamurugan-portfolio.vercel.app//">Portfolio</a>
 - 📫 How to reach me ... via call or whatsup 7639550495... via Mail bals161616@gmail.com
 - ⚡ Fun fact: I love to drawing and hear music in my leisure time.
